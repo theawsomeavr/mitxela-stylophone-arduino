@@ -1,3 +1,4 @@
+A clone of the Digimidi library
 Allows for the Digispark Attiny85 to function as a HID-MIDI device.
 
 Based on V-MIDI-HID: http://cryptomys.de/horo/V-USB-MIDI/
