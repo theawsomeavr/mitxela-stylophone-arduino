@@ -1,0 +1,3 @@
+DigiMIDI	KEYWORD1
+sendNoteOn 	KEYWORD2
+sendNoteOff 	KEYWORD2
